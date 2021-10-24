@@ -41,7 +41,7 @@ namespace ProductManager
 
             //  listBoxProductsList.Refresh();
         }
-
+        //tst
         private void refreshToListBox()
         {
             SqlConnection sqlCon = new SqlConnection(@"Data Source=DESKTOP-SDM5MI2; Initial Catalog=DbFirstEf; Integrated Security=true;");
